@@ -55,7 +55,7 @@ We currently include seven core papers, covering surveys, benchmarks, core algor
 
 *   **[2025.11]** 🎉 **AgentExpt** released on arXiv, showcasing the latest results in automated experiment design.
 *   **[2025.11]** 🎉 **Deep Ideation** released on arXiv, exploring the potential of AI in scientific idea generation.
-*   **[2025.10]** Project officially launched, establishing the seven core research directions of the OmniScientist ecosystem.
+*   **[2025.10]** Project officially launched, establishing the five core research directions of the OmniScientist ecosystem.
 
 ---
 
