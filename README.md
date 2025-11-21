@@ -55,6 +55,10 @@ Our vision is to build a comprehensive ecosystem named **OmniScientist**, enabli
 
 ---
 
+https://github.com/user-attachments/assets/71a6cc01-2899-4064-a396-f4a17b208c7a
+
+
+
 ## 📝 Paper Collection
 
 We currently include seven core papers, covering surveys, benchmarks, core algorithms (idea generation, experiment design), and macro-ecosystem construction.
